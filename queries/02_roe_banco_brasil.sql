@@ -99,3 +99,9 @@ WHERE
     AND bpp.ordem_exerc = 'ÚLTIMO'
 ORDER BY
     dre.dt_refer;
+
+-- ANÁLISE PRÉVIA
+-- 2016-2019: ROE crescendo de 9,6% para 17,2% — recuperação pós-crise Dilma/Temer
+-- 2020: queda para 10,4% — pandemia, inadimplência, Selic na mínima histórica (2%)
+-- 2021-2023: recuperação forte, pico de 19,1% em 2023
+-- 2024-2025: queda brusca para 15,8% e 8,6% — crise do agro e inadimplência recorde. Na verdade, 2026 está pior e a ação está 19,53 (19/06/26) sendo que atingiu o pico de 27,48 em 25/02/26
